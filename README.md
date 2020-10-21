@@ -1,15 +1,17 @@
 # Angular Essential Training
 
-This is the repository for a Angular Essential Training course
+This is the repository for a Angular Essential Training course that i did on linked in 
+The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning) 
+[LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-2-essential-training-2)  
 
 ## Instructions
 
 Make sure you have these installed
 ```
-node.js http://nodejs.org/
+  - [node.js](http://nodejs.org/)
 ```
 ```
-git http://git-scm.com
+  - [git](http://git-scm.com/)
 ```
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 ```
