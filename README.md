@@ -6,23 +6,24 @@ This is the repository for a Angular Essential Training course
 
 Make sure you have these installed
 ```
-<a href="http://nodejs.org/" rel="nofollow">node.js</a>
+node.js http://nodejs.org/
 ```
 ```
-<a href="http://git-scm.com/" rel="nofollow">git</a>
+git http://git-scm.com
 ```
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
-
-git clone https://github.com/coursefiles/angular2-essential-training.git
-
+```
+git clone https://github.com/jonomk07/angular-essential-training.git
+```
 CD to the folder
-
-cd angular2-essential-training
-
+```
+cd angular-essential-training
+```
 Run the following to install the project dependencies:
-
+```
 npm install
-
+```
 Run the npm start command to build the code, watch for file changes, and serve up the site locally:
-
+```
 npm start
+```
