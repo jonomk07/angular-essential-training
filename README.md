@@ -1,8 +1,9 @@
 # Angular Essential Training
 
 This is the repository for a Angular Essential Training course that i did on linkedin.
-The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning). </br>
-[LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-2-essential-training-2) .</br>
+
+The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning). 
+[LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-2-essential-training-2).
 
 ## Instructions
 
