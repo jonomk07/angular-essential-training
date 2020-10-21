@@ -1,0 +1,42 @@
+
+
+*Interpolation is a way to get data displayed in the view
+
+*But not all expressions are supported: 
+Assignments, newing up variables, expressions that are chained, and incrementors and decrementors are not valid expressions. 
+
+*Another way you can bind data in templates with Angular is through property binding. 
+ HTML elements have backing dom properties that track state on elements.
+
+*Where property binding makes use of the square brackets, event binding makes use of parentheses, 
+
+*You can define properties for components you create, and make them available by using the decorator called @imput
+*The input decorator is designed to be used on a class property.
+
+
+*Using output is similar to how you use input. First, we need to import the output decorator from the Angular course code package.
+ to decorate a property on the component class that we can name, delete. 
+*The different with output is we want to set the property to an event emitter object.
+
+*They are designed to be used in interpolation syntax, and template statements within component template markup. 
+The general idea being that you use a pipe after your statement that you wish to transform, 
+and the pipe will run on that statement value and return a final value that the template will display. 
+
+*The pipe decorator accepts an object of metadata, similar to component and directive decorators. 
+There are two properties available: name and pure.
+
+*There are two common approaches to building forms in Angular. Template driven, where the majority of the form logic is crafted in the template mark-up.
+ And model driven, where the majority of the form logic is crafted in the component class
+
+ *So Template Driven gives you an easy way to get up and running, 
+ whereas Model Driven allows you to take your forms wherever they need to go.
+
+ *Built in validation and custom validation. 
+
+ *things The first is service registration you want it to know about that can be injected. The second is the retrieval of those things, 
+ the majority of application architecting So step one is to tell Angular, that I want you to handle for me
+
+ *You can use an injection token to tell Angular you want to have a concrete type that can be passed around. 
+
+*Router outlet is a structural directive. It targets an element with the name router-outlet.
+
